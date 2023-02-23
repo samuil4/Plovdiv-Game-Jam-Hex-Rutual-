@@ -1,12 +1,12 @@
-#Rules to play “Hex Ritual”
-##GENERAL INFORMATION
+# Rules to play “Hex Ritual”
+## GENERAL INFORMATION
 The game begins with 2 team, who start the game on the two opposing sides of the map. The maximum number number for players for each team is 3. Once the teams are assembled, a member from each team roll a dice in order to choose the “Light” or the “Dark” side
 
 Depending on the choice made leaning on the "Dark" or the "Light" side, each team member needs to choose 3 heroes from total of 6 available heroes, also the player takes 3 magical cards from the magical cards deck.  
 
  
 
-##SETTING UP TURNS OF PLAYERS
+## SETTING UP TURNS OF PLAYERS
  
 
 In order to set the order of turns for the players, each member of a team needs to roll a dice. The player with the highest received value is a first, followed by the next highest value and so forth. It's important that, once the turns inside the team are set, the player, who has the last turn, needs to switch one of his heroes for the "Anarchist" hero, who is needed for team, in order to make the sacred ritual at the end of the game. After the internal turns of a team are ready, the first players from each team needs to roll the dice in order to determine, whose team will be first, again the team with the highest score is first.      
@@ -17,12 +17,12 @@ The first player of the team starts, followed by the first player of the opposin
 
 On their way to the victory, when a player voluntarily step on a shrine field on the map, he or she takes a magical card from the magic deck. In case the player is forced to move to this field, he or she doesn't take magical card. Please note that a player can possess maximum number of 10 magical cards.  
 
-##THE HEROES
+## THE HEROES
 In the world of Hex Ritual there are 13 different heroes. Each hero has a specific set of physical and magical powers. A hero can be a Fighter class or a Caster class. Depending on their class the set of magic and physical powers is different.
 
  
 
-###MAGICAL CARDS
+### MAGICAL CARDS
  
 
 The types of magic in Hex Ritual are divided into 3 different kinds: offensive, defensive and support:
@@ -39,7 +39,7 @@ Type of magic cards
 
  
 
-###OFFENSIVE CARDS
+### OFFENSIVE CARDS
  
 
  
@@ -74,7 +74,7 @@ Type of magic cards
 
  
 
-###DEFENSIVE CARDS
+### DEFENSIVE CARDS
  
 
  
@@ -91,7 +91,7 @@ Type of magic cards
 
  
 
-###SUPPORT MAGIC
+### SUPPORT MAGIC
  
 
 "Teleport" the player doesn't need to fight a monster summoned by encounter card
@@ -110,7 +110,7 @@ Type of magic cards
 
  
 
-###MOVEMENT ON THE MAP
+### MOVEMENT ON THE MAP
  
 
  
